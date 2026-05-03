@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/-ayman--sakyoud-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Sakyoud-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayman-sakyoud-5a4841407/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayman-sakyoud&style=flat-square&color=7C83FD&label=Profile+Views)
 
 
 
