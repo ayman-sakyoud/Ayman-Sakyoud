@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-aymansakyoud321@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aymansakyoud321@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@ayman26562-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/ayman26562)
 [![GitHub](https://img.shields.io/badge/-ayman--sakyoud-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
+[![LinkedIn](https://img.shields.io/badge/-Ayman%20Sakyoud-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayman-sakyoud-5a4841407/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ayman-sakyoud&style=flat-square&color=7C83FD&label=Profile+Views)
 
 </div>
