@@ -1,0 +1,31 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Ayman Sakyoud Full Stack Developer">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="0.55" stop-color="#0D2340"/><stop offset="1" stop-color="#07517C"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#0284C7" stop-opacity=".38"/><stop offset="1" stop-color="#0284C7" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" stroke="#7DD3FC" stroke-opacity=".065" fill="none"/></pattern>
+ </defs>
+ <rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+ <rect width="1200" height="330" rx="20" fill="url(#grid)"/>
+ <circle cx="1020" cy="100" r="230" fill="url(#glow)"/>
+ <path d="M0 298H1200" stroke="#38BDF8" stroke-opacity=".3"/>
+ <rect x="66" y="51" width="245" height="35" rx="17.5" fill="#0E3653" stroke="#38BDF8" stroke-opacity=".65"/>
+ <text x="84" y="74" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#7DD3FC">&lt;/&gt;  FULL STACK DEVELOPER</text>
+ <text x="63" y="167" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="700" fill="#F8FAFC">Ayman <tspan fill="#38BDF8">Sakyoud</tspan></text>
+ <text x="67" y="208" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#CBD5E1">Django • React • PostgreSQL • Modern Web Applications</text>
+ <rect x="67" y="235" width="5" height="35" rx="2" fill="#38BDF8"/>
+ <text x="84" y="250" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#E2E8F0">Building reliable digital experiences</text>
+ <text x="84" y="272" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#94A3B8">Marrakech, Morocco  •  FST Marrakech</text>
+ <g transform="translate(858 64)">
+  <rect x="0" y="0" width="265" height="172" rx="13" fill="#081626" stroke="#2C7FAC" stroke-width="2"/>
+  <rect x="0" y="0" width="265" height="27" rx="13" fill="#14344E"/><rect x="0" y="17" width="265" height="10" fill="#14344E"/>
+  <circle cx="19" cy="14" r="4" fill="#FB7185"/><circle cx="34" cy="14" r="4" fill="#FBBF24"/><circle cx="49" cy="14" r="4" fill="#4ADE80"/>
+  <text x="17" y="57" font-family="monospace" font-size="13" fill="#94A3B8">// welcome to my GitHub</text>
+  <text x="17" y="84" font-family="monospace" font-size="15" fill="#38BDF8">const developer = {</text>
+  <text x="31" y="107" font-family="monospace" font-size="13" fill="#C4B5FD">name: <tspan fill="#86EFAC">'Ayman'</tspan>,</text>
+  <text x="31" y="129" font-family="monospace" font-size="13" fill="#C4B5FD">focus: <tspan fill="#86EFAC">'Full Stack'</tspan>,</text>
+  <text x="17" y="151" font-family="monospace" font-size="15" fill="#38BDF8">};</text>
+  <path d="M-10 184h288" stroke="#38BDF8" stroke-opacity=".25"/>
+ </g>
+</svg>
