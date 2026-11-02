@@ -1,17 +1,19 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:203A5F&height=170&section=header&text=Ayman%20Sakyoud&fontSize=44&fontColor=FFFFFF&fontAlignY=41&desc=Full%20Stack%20Developer%20%7C%20FST%20Marrakech&descAlignY=67&descSize=17&descColor=CBD5E1" width="100%" alt="Ayman Sakyoud" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Ayman%20Sakyoud&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FST%20Marrakech&descAlignY=60&descSize=18&descColor=E2E8F0&animation=fadeIn" width="100%" alt="Ayman Sakyoud banner"/>
 
-### Building reliable web applications, from database to interface.
+<br/>
 
-Marrakech, Morocco · Django & REST APIs · Databases · Modern Web Development
+### Full Stack Developer
+**Building clean, scalable and reliable web applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://ayman-sakyoud.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-sakyoud-577653423/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman26562)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymansakyoud9@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://ayman-sakyoud.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Sakyoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-sakyoud-40983b43b/)
+[![GitHub](https://img.shields.io/badge/GitHub-ayman--sakyoud-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
+[![Instagram](https://img.shields.io/badge/Instagram-@ayman26562-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman26562)
+[![Email](https://img.shields.io/badge/Email-aymansakyoud9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymansakyoud9@gmail.com)
 
 </div>
 
@@ -19,57 +21,58 @@ Marrakech, Morocco · Django & REST APIs · Databases · Modern Web Development
 
 ## About Me
 
-I'm a **Full Stack Developer** based in **Marrakech, Morocco**, with a background in **Systèmes Informatiques Répartis (SIR)** at **FST Marrakech**.
+Hi, I'm **Ayman Sakyoud**, a **Full Stack Developer** based in **Marrakech, Morocco**.  
+I hold a background in **Computer Science** and I enjoy building modern applications with a strong focus on:
 
-I build applications with an emphasis on maintainable backend architecture, secure APIs, structured databases, and usable interfaces. I am also interested in networking, application security, and containerized deployment.
+- **Backend Development**
+- **REST API Design**
+- **Database Management**
+- **Clean UI Integration**
+- **Scalable Web Applications**
 
-- **Core focus:** Django, Django REST Framework, PostgreSQL, React
-- **Interests:** Backend development, database administration, network analysis & security
-- **Currently exploring:** API design, SQL optimization, Docker and deployment workflows
-- **Open to:** Collaboration, open-source contributions, and development opportunities
+I’m particularly interested in working with **Django**, **PostgreSQL**, and modern frontend technologies to create practical and maintainable solutions.
 
 ---
 
-## Selected Projects
+## Core Focus
+
+- Building robust backend systems with **Django / DRF**
+- Designing and managing structured databases
+- Creating responsive and user-friendly web interfaces
+- Improving performance, maintainability, and code quality
+- Learning more about **Docker**, deployment, and software architecture
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Django CRM
+A CRM system with authentication, lead tracking, and management dashboards.
 
-Customer relationship management application featuring authentication, lead tracking, and client management dashboards.
-
-**Stack:** Python · Django · PostgreSQL
+**Tech:**  
+Python · Django · PostgreSQL
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Java Swing Cooperative
+A desktop application for cooperative management with reporting and member administration.
 
-Desktop application for cooperative management, with member administration and reporting features.
-
-**Stack:** Java · Swing · MySQL
+**Tech:**  
+Java · Swing · MySQL
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Student CRUD
+A student management system with full CRUD operations and a clean interface.
 
-Student management system with create, read, update, and delete operations and a responsive interface.
-
-**Stack:** Python · Django · MySQL
-
-</td>
-<td width="50%" valign="top">
-
-### More Work
-
-Explore my repositories and portfolio for additional projects, technical experiments, and demos.
-
-[**Explore my repositories →**](https://github.com/ayman-sakyoud?tab=repositories) · [**Visit portfolio →**](https://ayman-sakyoud.vercel.app/)
+**Tech:**  
+Python · Django · MySQL
 
 </td>
 </tr>
@@ -79,46 +82,79 @@ Explore my repositories and portfolio for additional projects, technical experim
 
 ## Tech Stack
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+### Frameworks & Web
+![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-0F172A?style=for-the-badge&logo=django&logoColor=EF4444)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=B197FC)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316)
 
-**Web & Frameworks**
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Oracle](https://img.shields.io/badge/Oracle-1E293B?style=for-the-badge&logo=oracle&logoColor=EF4444)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayman-sakyoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayman-sakyoud&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=CBD5E1&icon_color=38BDF8&bg_color=00000000" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-sakyoud&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-sakyoud&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=CBD5E1&bg_color=00000000" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayman-sakyoud&theme=github-compact&hide_border=true&area=true" width="98%" alt="GitHub contribution activity" />
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=ayman-sakyoud&theme=transparent&hide_border=true&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayman-sakyoud&bg_color=0D111700&color=94A3B8&line=0EA5E9&point=38BDF8&area=true&hide_border=true&title_color=0EA5E9" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## Portfolio
+
+<div align="center">
+
+Explore more of my work here:
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://ayman-sakyoud.vercel.app/)
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I’m always interested in learning, collaborating, and discussing new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-sakyoud-40983b43b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ayman26562)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aymansakyoud9@gmail.com)
 
 </div>
 
@@ -126,10 +162,8 @@ Explore my repositories and portfolio for additional projects, technical experim
 
 <div align="center">
 
-**Interested in working together?**
+### Thanks for visiting my profile
 
-[View my portfolio](https://ayman-sakyoud.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/ayman-sakyoud-577653423/) · [Send an email](mailto:aymansakyoud9@gmail.com)
-
-<sub>Designed to be simple, clear, and easy to maintain.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E293B,100:0F172A&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
