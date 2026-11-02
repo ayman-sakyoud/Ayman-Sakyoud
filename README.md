@@ -1,194 +1,124 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayman%20Sakyoud&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20FST%20Marrakech&descAlignY=62&descSize=20&descColor=c8d0ff&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%90%8D+Django+%26+PostgreSQL+Specialist;%F0%9F%8C%90+Web+Dev+%7C+Database+Admin+%7C+Networking;%F0%9F%9A%80+Building+clean%2C+scalable+applications;%E2%98%95+Turning+coffee+into+elegant+code+since+day+one" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:203A5F&height=170&section=header&text=Ayman%20Sakyoud&fontSize=44&fontColor=FFFFFF&fontAlignY=41&desc=Full%20Stack%20Developer%20%7C%20FST%20Marrakech&descAlignY=67&descSize=17&descColor=CBD5E1" width="100%" alt="Ayman Sakyoud" />
 
-<br/><br/>
-[![Gmail](https://img.shields.io/badge/-aymansakyoud9@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:[aymansakyoud587@gmail.com](https://ayman-sakyoud.vercel.app/))
-[![Instagram](https://img.shields.io/badge/-@ayman26562-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/ayman26562)
-[![GitHub](https://img.shields.io/badge/-ayman--sakyoud-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20Sakyoud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-sakyoud-577653423/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20le%20site-000000?style=flat-square&logo=vercel&logoColor=white)](https://ayman-sakyoud.vercel.app/)
+### Building reliable web applications, from database to interface.
+
+Marrakech, Morocco · Django & REST APIs · Databases · Modern Web Development
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://ayman-sakyoud.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-sakyoud-577653423/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayman-sakyoud)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman26562)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymansakyoud9@gmail.com)
+
 </div>
 
-<br/>
+---
+
+## About Me
+
+I'm a **Full Stack Developer** based in **Marrakech, Morocco**, with a background in **Systèmes Informatiques Répartis (SIR)** at **FST Marrakech**.
+
+I build applications with an emphasis on maintainable backend architecture, secure APIs, structured databases, and usable interfaces. I am also interested in networking, application security, and containerized deployment.
+
+- **Core focus:** Django, Django REST Framework, PostgreSQL, React
+- **Interests:** Backend development, database administration, network analysis & security
+- **Currently exploring:** API design, SQL optimization, Docker and deployment workflows
+- **Open to:** Collaboration, open-source contributions, and development opportunities
 
 ---
 
-<img align="right" width="370" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+## Selected Projects
 
-### 👋 &nbsp;Who am I?
-
-```yaml
-name:        Ayman Sakyoud
-location:    Marrakech, Morocco 🇲🇦
-university:  FST Marrakech — Filière SIR
-role:        Full Stack Developer
-
-focus:
-  - Backend Development (Django / DRF)
-  - Database Administration
-  - Network Analysis & Security
-
-currently_learning:
-  - Advanced Django REST Framework
-  - PostgreSQL Query Optimization
-  - Docker & Containerization
-
-available_for:
-  - Open Source Contributions
-  - Collaborative Projects
-  - Internship Opportunities
-
-fun_fact: >
-  I believe great code reads like poetry,
-  and great databases never lie. 🎯
-```
-
-<br clear="right"/>
-
----
-
-## ⚡ &nbsp;Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td align="center" width="310px">
+<td width="50%" valign="top">
 
-### 🧩 Django CRM
-<img src="https://img.shields.io/badge/status-completed-4CAF50?style=flat-square"/>
+### Django CRM
 
-> CRM system with full authentication, lead pipeline tracking and client management dashboards.
+Customer relationship management application featuring authentication, lead tracking, and client management dashboards.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Stack:** Python · Django · PostgreSQL
 
 </td>
-<td align="center" width="310px">
+<td width="50%" valign="top">
 
-### ☕ Java Swing Cooperative
-<img src="https://img.shields.io/badge/status-completed-4CAF50?style=flat-square"/>
+### Java Swing Cooperative
 
-> Desktop cooperative management app with intuitive Swing GUI, member management and dynamic reporting.
+Desktop application for cooperative management, with member administration and reporting features.
 
+**Stack:** Java · Swing · MySQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Student CRUD
+
+Student management system with create, read, update, and delete operations and a responsive interface.
+
+**Stack:** Python · Django · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### More Work
+
+Explore my repositories and portfolio for additional projects, technical experiments, and demos.
+
+[**Explore my repositories →**](https://github.com/ayman-sakyoud?tab=repositories) · [**Visit portfolio →**](https://ayman-sakyoud.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing_GUI-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-</td>
-<td align="center" width="310px">
+**Web & Frameworks**
 
-### 🎓 Student CRUD
-<img src="https://img.shields.io/badge/status-completed-4CAF50?style=flat-square"/>
-
-> Clean student management system with responsive interface and full CRUD operations end-to-end.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-</tr>
-</table>
-</div>
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+## GitHub Activity
 
 <div align="center">
 
-<table>
-<tr>
-  <td valign="top" width="25%">
+<img src="https://github-readme-stats.vercel.app/api?username=ayman-sakyoud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics" />
 
-**💬 Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-sakyoud&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" alt="Most used languages" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-  </td>
-  <td valign="top" width="25%">
-
-**🧰 Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-  </td>
-  <td valign="top" width="25%">
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-  </td>
-  <td valign="top" width="25%">
-
-**⚙️ Tools & OS**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Statistics
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=ayman-sakyoud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&ring_color=7C83FD&border_radius=16"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-sakyoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&text_color=c9d1d9&border_radius=16&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayman-sakyoud&theme=tokyonight&hide_border=true&background=0D1117&ring=7C83FD&fire=FF6B6B&currStreakLabel=7C83FD&sideLabels=c9d1d9&dates=888888&border_radius=16"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayman-sakyoud&bg_color=0d1117&color=7C83FD&line=7C83FD&point=c8d0ff&area=true&area_color=7C83FD&hide_border=true&radius=8&custom_title=Ayman's%20Contribution%20Graph"/>
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayman-sakyoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayman-sakyoud/Ayman-Sakyoud/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayman-sakyoud/Ayman-Sakyoud/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/ayman-sakyoud/Ayman-Sakyoud/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayman-sakyoud&theme=github-compact&hide_border=true&area=true" width="98%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -196,23 +126,10 @@ fun_fact: >
 
 <div align="center">
 
-### 💬 &nbsp;A quote I live by
+**Interested in working together?**
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+[View my portfolio](https://ayman-sakyoud.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/ayman-sakyoud-577653423/) · [Send an email](mailto:aymansakyoud9@gmail.com)
 
-<br/>
-
-**Thanks for visiting — let's build something amazing together 🚀**
-
-<br/>
-
-<a href="mailto:aymansakyoud321@gmail.com">
-  <img src="https://img.shields.io/badge/📫%20Reach%20Out-Let's%20Collaborate-7C83FD?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<br/><br/>
+<sub>Designed to be simple, clear, and easy to maintain.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=140&section=footer&animation=twinkling" width="100%"/>
